@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Line of Duty",
+    "editorial_title": "",
+    "subtitle": "Series 5: Episode 5",
+    "editorial_subtitle": "5/6 The hunt for 'H' intensifies",
+    "synopses":[{
+      "small": "As the hunt for 'H' intensifies, Steve and Kate wonder if Hastings is hiding something.",
+      "editorial": "Steve and Kate start to wonder if Hastings is guarding a dark secret."
+      }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p0776hbv.jpg"
+    }],
+    "category": "Crime Drama",
+    "watching": "Resume",
+    "progress": "35",
+    "masterbrand": "BBC One",
+    "duration": "58 mins",
+    "availability": "Available for 2 months"
+  },{
+    "title": "Your Home Made Perfect",
+    "editorial_title": "",
+    "subtitle": "Series 1: Episode 2",
+    "editorial_subtitle": "2/5 Can James and Vicky reinvent their family home?",
+    "synopses":[{
+      "small": "Two rival architects redesign the home of a couple from Kent.",
+      "editorial": "James and Vicky agree they need to rethink their home – but that’s all they agree on."
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p076vvpy.jpg"
+    }],
+    "category": "Lifestyle",
+    "watching": "My next episode",
+    "progress": "0",
+    "masterbrand": "BBC Two",
+    "duration": "59 mins",
+    "availability": "Available for 13 days"
+  },{
+    "title": "Not Going Out",
+    "editorial_title": "",
+    "subtitle": "Series 10: 5. Memory",
+    "editorial_subtitle": "5/7 Memory. Lee endures an unforgettable evening",
+    "synopses":[{
+      "small": "Lucy carves out a little me-time to try to watch her favourite television programme.",
+      "editorial": "All Lucy wants to do is watch her favourite show in peace – but when Lee’s about..."
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p078jh9h.jpg"
+    }],
+    "category": "Comedy",
+    "masterbrand": "BBC One",
+    "duration": "27 mins",
+    "availability": "Available for 29 days"
+  }
+]

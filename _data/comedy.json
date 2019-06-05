@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Miranda",
+    "editorial_title": "Miranda: Series 1-3",
+    "subtitle": "Series 1: 1. Date",
+    "editorial_subtitle": "Box Set. Settle in for every episode, ever. Such fun!",
+    "synopses":[{
+      "small": "Miranda gets overexcited by the prospect of her first real date.",
+      "editorial": "Miranda Hart's prat-falling, cockle-warming sitcom - from start to finish."
+      }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p05r75h6.jpg"
+    }],
+    "category": "Comedy",
+    "masterbrand": "BBC One",
+    "duration": "29 mins",
+    "availability": "Available for 23 days"
+  },{
+    "title": "Still Open All Hours",
+    "editorial_title": "Still Open All Hours: Series 1-5",
+    "subtitle": "Series 1: Episode 1",
+    "editorial_subtitle": "Box Set. Laughs on offer",
+    "synopses":[{
+      "small": "Granville is forced into taking extra security precautions for the shop's takings.",
+      "editorial": "Granville flips over the sign to Arkwright’s - Britain's daftest corner shop."
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06kkyqx.jpg"
+    }],
+    "category": "Comedy",
+    "masterbrand": "BBC One",
+    "duration": "29 mins",
+    "availability": "Available for 3 months"
+  },{
+    "title": "Inside No. 9",
+    "editorial_title": "Inside No. 9: Series 1-4",
+    "subtitle": "Series 1: 1. Sardines",
+    "editorial_subtitle": "Box Set. Exquisitely twisted comedy",
+    "synopses":[{
+      "small": "At an engagement party, a bedroom with old baggage in it has been left unlocked...",
+      "editorial": "Surprising, creepy and hilarious storytelling from Steve Pemberton and Reece Shearsmith."
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p05smkp1.jpg"
+    }],
+    "category": "Comedy",
+    "masterbrand": "BBC Two",
+    "duration": "29 mins",
+    "availability": "Available for 5 months"
+  },{
+    "title": "There She Goes",
+    "editorial_title": "",
+    "subtitle": "Series 1: 1. One Day in the Life of Rosie Yates",
+    "editorial_subtitle": "Box Set. A unique daughter and a loving, complex family",
+    "synopses":[{
+      "small": "It's a typical Saturday for nine-year-old Rosie, who has a severe learning disability.",
+      "editorial": "Life with learning disabilties. With a BAFTA-winning performance by Jessica Hynes."
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06nknft.jpg"
+    }],
+    "category": "Drama",
+    "masterbrand": "BBC Four",
+    "duration": "30 mins",
+    "availability": "Available for 6 months"
+  },{
+    "title": "This Country",
+    "editorial_title": "This Country: Series 1-2",
+    "subtitle": "Series 1: 1. Scarecrow",
+    "editorial_subtitle": "Box Set. A BAFTA-winning look at life in rural Britain",
+    "synopses":[{
+      "small": "The team visit a scarecrow festival, an event that both unites and divides the community.",
+      "editorial": "It's their village, and you'd better not forget it. Cotswolds life at its finest."
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p05r6f59.jpg"
+    }],
+    "category": "Comedy",
+    "masterbrand": "BBC Three",
+    "duration": "24 mins",
+    "availability": "Available for 1 month"
+  },{
+    "title": "Mortimer & Whitehouse: Gone Fishing",
+    "editorial_title": "",
+    "subtitle": "Series 1: Episode 1",
+    "editorial_subtitle": "Box Set. Life, death and fish",
+    "synopses":[{
+      "small": "Paul and Bob fish for tench in Norfolk and reminisce about their childhood days.",
+      "editorial": "Comedy pals Paul and Bob travel the UK to catch fish and talk a lot of nonsense."
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06bj695.jpg"
+    }],
+    "category": "Comedy",
+    "masterbrand": "BBC Two",
+    "duration": "29 mins",
+    "availability": "Available for 10 months"
+  }
+]

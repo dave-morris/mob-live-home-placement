@@ -1,0 +1,33 @@
+[
+  {"TLEO": "Glastonbury 2019",
+    "events":[
+    {
+    "title": "Glastonbury",
+    "episode_title": "2019: Day 3: Kylie",
+    "editorial_title": "Kylie: Pyramid Stage",
+    "synopsis": "Kylie Minogue closes the famous festival with the legends slot.",
+    "masterbrand": "BBC Music",
+    "image": "https://ichef.bbci.co.uk/images/ic/1280x720/p06kr4n8.jpg",
+    "label": "live",
+    "type": "webcast"
+  },{
+    "title": "Glastonbury",
+    "episode_title": "2019: Day 3: Vampire Weekend",
+    "editorial_title": "Vampire Weekend: Park Stage",
+    "synopsis": "New York's finest foursome Vampire Weekend play the Park Stage.",
+    "masterbrand": "BBC Music",
+    "image": "https://ichef.bbci.co.uk/images/ic/1280x720/p025bkyx.jpg",
+    "label": "live",
+    "type": "webcast"
+  },{
+    "title": "Glastonbury",
+    "episode_title": "2019: 104. Chic",
+    "editorial_title": "Chic",
+    "synopsis": "The disco funk group wowed us in 2013 and raised the bar even higher for 2019.",
+    "masterbrand": "BBC Music",
+    "image": "https://ichef.bbci.co.uk/images/ic/1280x720/p056xtm3.jpg",
+    "label": "yesterday",
+    "type": "vod"
+    }
+  ]
+}]

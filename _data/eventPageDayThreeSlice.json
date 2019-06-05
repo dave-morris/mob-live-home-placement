@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Today at Wimbledon",
+    "editorial_title": "",
+    "subtitle": "Day 3",
+    "editorial_subtitle": "Today at Wimbledon",
+    "synopses":[{
+      "small": "Clare Balding introduces highlights from the best of day three's action.",
+      "editorial": ""
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06cvt4p.jpg"
+    }],
+    "category": "Sport",
+    "masterbrand": "BBC Sport",
+    "duration": "60 mins",
+    "availability": ""
+  },{
+    "title": "Wimbledon",
+    "editorial_title": "",
+    "subtitle": "Day 3, Part 3",
+    "editorial_subtitle": "",
+    "synopses":[{
+      "small": "Including the start of Dulgheru v V Williams, Federer v Lacko and Tomova v S Williams.",
+      "editorial": ""
+      }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06cvmkh.jpg"
+    }],
+    "category": "Sport",
+    "masterbrand": "BBC Sport",
+    "duration": "255 minutes",
+    "availability": ""
+  },{
+    "title": "Wimbledon",
+    "editorial_title": "",
+    "subtitle": "Day 3, Part 2",
+    "editorial_subtitle": "",
+    "synopses":[{
+      "small": "Including Ka Pliskova v Azarenka, Dulgheru v V Williams and Fabbiano v Wawrinka.",
+      "editorial": "Available for 28 days"
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06cvvw2.jpg"
+    }],
+    "category": "Sport",
+    "masterbrand": "BBC Sport",
+    "duration": "450 mins",
+    "availability": "Available for 28 days"
+  },{
+    "title": "Wimbledon",
+    "editorial_title": "",
+    "subtitle": "Day 3, Part 1",
+    "editorial_subtitle": "",
+    "synopses":[{
+      "small": "Sue Barker introduces live action, including Swan v Buzarnescu.",
+      "editorial": ""
+    }],
+    "image":[{
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06ctvbl.jpg"
+    }],
+    "category": "Sport",
+    "masterbrand": "BBC Sport",
+    "duration": "90 mins",
+    "availability": "Available for 28 days"
+  }
+]
